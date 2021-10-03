@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vishnuseksaria.vs@gmail.com**
 
-- ⚡ Fun fact **I am a 3 star coder at HackerRank Java and Python.**
+- ⚡ Fun fact **I am a 4 star and 3 star coder at HackerRank in Java and Python respectively.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
