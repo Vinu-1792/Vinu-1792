@@ -2,7 +2,7 @@
 ## ✔️BASIC DETAILS:
 - 👨‍🎓 Netaji Subhas Engineering College, Garia City, Kolkata.
 - 🏠 Rishra, Kolkata.
-- 🌱 I am currently Java.
+- 🌱 I am currently learning Java.
 - 📫 Reach me at vishnuseksaria.vs@gmail.com.
 - ⚡ 4⭐ and 3⭐ at HackerRank in Java and Python respectively.
 ### ✔️CONNECT WITH ME🤝:
