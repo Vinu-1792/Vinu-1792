@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm Vishnu Seksaria.</h1>
-<h3 align="center">A passionate coder from India.</h3>
+# Hii👋, I am Vishnu Seksaria.
+## ✔️BASIC DETAILS:
+- 👨‍🎓 Netaji Subhas Engineering College, Garia City, Kolkata.
+- 🏠 Rishra, Kolkata.
+- 🌱 I am currently Java.
+- 📫 Reach me at vishnuseksaria.vs@gmail.com.
+- ⚡ 4⭐ and 3⭐ at HackerRank in Java and Python respectively.
+### ✔️CONNECT WITH ME🤝:
 
-- 🌱 I’m currently learning **Java.**
-
-- 📫 How to reach me **vishnuseksaria.vs@gmail.com**
-
-- ⚡ Fun fact **I am a 4 star and 3 star coder at HackerRank in Java and Python respectively.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vinu_1792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinu_1792" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnuseksaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuseksaria" height="30" width="40" /></a>
-<a href="https://instagram.com/vinu_1792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinu_1792" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishnuseksaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishnuseksaria" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vishnuseksaria/)
+[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](https://twitter.com/vinu_1792)
+[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/vinu_1792/)
+[ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" width="40" />](https://www.hackerrank.com/vishnuseksaria)
+### ✔️ LANGUAGES:
+[<img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png" height="50" width="50"/>](https://www.java.com/en/)
+[<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>](https://www.python.org/)
