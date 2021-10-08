@@ -5,7 +5,7 @@
 - 🏠 Rishra, Kolkata.
 - 🌱 I am currently learning Java.
 - 📫 Reach me at vishnuseksaria.vs@gmail.com.
-- ⚡ 4⭐ and 3⭐ at HackerRank in Java and Python respectively.
+- ⚡ 5⭐ and 3⭐ at HackerRank in Java and Python respectively.
 ## ✔️CONNECT WITH ME🤝:
 
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/vishnuseksaria/)
